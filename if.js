@@ -1,25 +1,29 @@
-// if STRUCTURE
-//  if (condition){
-// fjkdf}
+/**
+ * Tui jodi amake khawas
+ * taile ami asbo
+ * 
+ * --------------------
+ * if you nuy food for me 
+ *     i will cone 
+ * 
+ * 
+ * --------------------
+ * if briyani price less than 300 taka 
+ * i will buy
+ * 
+ * 
+ * -------STRUCTURE---------
+ * 
+ * if (condition) {
+ * }
+ * /
+ * */
 
-// if (3 < 10){
-//     console.log('i have a smaller valo')
-// }
+if (3 < 10){
+    console.log('i have a sempol valo')
+}
 
-// var biryaniprice = 250;
-// if (biryaniprice < 300){
-//     console.log('i will buy biryani')
-// }
-// var weight = 20;
-// if (weight <= 20){
-//     console.log('i will buy a weight')
-// }
-// else {
-//     console.log('i will not buy a riksha')
-// }
-
-const price = 5000;
-if (price >= 5000){
-    const discount = price * / 100 ;
-    console.log(discount);
+var briyaniPrice = 250;
+if (briyaniPrice < 300){
+    console.log('mama give me biriyani')
 }
